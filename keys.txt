@@ -1,0 +1,5 @@
+Serper (kyimusic11@gmail.com)
+API Key: fa731476c137d9fa3affc86c1ad23a215fb8bfcb
+
+YouTube Data API v3:
+API Key: AIzaSyDsf3gTUpYBStSk9eXOKqXqn3zj06YuiHs
